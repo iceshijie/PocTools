@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # coding: UTF-8
 #https://github.com/iceshijie/PocTools/edit/master/urlTest.py
+#url连通性测试
 
 import requests
 
